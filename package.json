@@ -1,6 +1,7 @@
 {
   "name": "todo-list",
   "version": "0.1.0",
+  "homepage": "https://hyun-009.github.io/typescript-todo_list/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -14,8 +15,8 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://Hyun-009.github.io/typescript-todo_list"
+    "web-vitals": "^2.1.4"
+
   },
   "scripts": {
     "start": "react-scripts start",
